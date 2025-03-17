@@ -13,7 +13,7 @@ This is a Streamlit app that provides mood-boosting suggestions based on user in
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone [Your Repository URL Here]
     ```
 2.  **Navigate to the directory:**
     ```bash
@@ -117,8 +117,6 @@ def main():
 if __name__ == "__main__":
     main()
 
-#Contributing
-* Feel free to contribute to this project by submitting pull requests or opening issues.
+## License
 
-#License
-* [MIT License]
+This project is licensed under the [MIT License](LICENSE).
