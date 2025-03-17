@@ -15,7 +15,7 @@ This is a Streamlit app that provides mood-boosting suggestions based on user in
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Your Repository URL Here]
+    git clone [https://github.com/MwilaCMumbi/streamlit-mood-bot]
     ```
 2.  **Navigate to the directory:**
     ```bash
