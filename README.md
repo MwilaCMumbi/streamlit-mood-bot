@@ -119,10 +119,6 @@ def main():
 if __name__ == "__main__":
     main()
 
-##Contributing
-*Feel free to contribute to this project by submitting pull requests or opening issues*
 
-##License
-*MIT License*
 
 
