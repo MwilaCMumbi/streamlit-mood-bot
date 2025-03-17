@@ -1,3 +1,5 @@
+Markdown
+
 # Streamlit Mood Booster Bot
 
 This is a Streamlit app that provides mood-boosting suggestions based on user input.
@@ -116,11 +118,10 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-## Contributing
-
+Contributing
 Feel free to contribute to this project by submitting pull requests or opening issues.
 
-## License
+License
+MIT License
 
-[MIT License](LICENSE)
+
